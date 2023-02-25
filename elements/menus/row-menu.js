@@ -1,5 +1,5 @@
 import { LitElement, html, css, nothing } from "https://cdn.jsdelivr.net/gh/lit/dist@2.6.1/core/lit-core.min.js";
-import { socialIcons } from '../assets/social-icons.js'
+import { socialIcons } from 'https://caffeineee.github.io/elementspresso/elements/assets/social-icons.js'
 export class rowMenu extends LitElement {
     static properties = {
         links: { type: Array, attribute: "links" }
