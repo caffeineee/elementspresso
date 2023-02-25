@@ -6,6 +6,10 @@ let socialIcons = [
     {
         title: "twitter",
         url: "elements/assets/icons/twitter.svg"
+    },
+    {
+        title: "instagram",
+        url: "elements/assets/icons/instagram.svg"
     }
 ]
 export { socialIcons }
